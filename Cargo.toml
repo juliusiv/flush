@@ -1,0 +1,9 @@
+[package]
+name = "flush"
+version = "0.1.0"
+authors = ["Julius Alexander <julius@plangrid.com>"]
+edition = "2018"
+
+[dependencies]
+hyper = "0.12"
+sysfs_gpio = "0.5"
